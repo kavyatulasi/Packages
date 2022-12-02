@@ -4,7 +4,7 @@ The DROP PACKAGE statement drops a stored package from the database.
 Semantics
 drop_package
 
-drop package pk_580;
+drop package pack1;
 
 BODY
 
